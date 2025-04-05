@@ -285,6 +285,10 @@ SELECT * FROM dual;
 SELECT * FROM branch;
 
 
+COMMIT;
+--- The above command commits the changes made to the branch table.
+
+
 
 
 
